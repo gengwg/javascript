@@ -28,3 +28,6 @@ retrieval [] or .
 objects are passed around by reference; they are never copied.
 
 one way to minimize use of global variables is to create a single global variable for your application. that variable then becomes the container for your application.
+## chapter 5 inheritance
+
+in classical languages, objects are instances of classes, and a class can inherit from another class. js is prototypal language, which means that objects inherit  directly from other objects.
