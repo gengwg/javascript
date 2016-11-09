@@ -31,3 +31,29 @@ one way to minimize use of global variables is to create a single global variabl
 ## chapter 5 inheritance
 
 in classical languages, objects are instances of classes, and a class can inherit from another class. js is prototypal language, which means that objects inherit  directly from other objects.
+
+## Chapter 7 Regular Expressions
+
+syntax came from java. functions from scheme, prototypal inheritance from self. regex from perl
+
+## Chapter 9
+
+global variables become increasingly problematic as programs scale in complexity.
+
+## chapter 10 beautiful features
+
+functions as first class objects
+
+dynamic objects with prototypal inheritance. 
+objects are class-free. we can add a new member to any object by ordinary asignment.
+
+object literals and array literals. js literals were the inspiration for hte json data interchange format.
+
+features can have a negative value to consumers because they make the products more difficult to understand and use.
+
+## A Aweful parts
+
+variables decared in a block is visible everywhere in the function containing the block.
+
+
+
